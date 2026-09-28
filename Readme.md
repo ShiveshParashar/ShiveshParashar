@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./shivesh_ninja_red_green_cycle.gi"
+  <img src="./shivesh_ninja_red_green_cycle.gif"
        width="100%"
        alt="Ninja error to success animation">
 </div>
