@@ -6,6 +6,22 @@
 </td>
 </tr>
 </table>
+<h1 align="center">👋 Hi, I'm Shivesh Parashar</h1>
+
+<p align="center">
+  <strong>4th-Year Computer Science Engineering Student</strong><br>
+  Jaypee Institute of Information Technology (JIIT)
+</p>
+
+<p align="center">
+  I'm passionate about <strong>Artificial Intelligence and Machine Learning</strong> and enjoy
+  building practical projects, exploring new technologies, and solving challenging problems.
+</p>
+
+<p align="center">
+  Currently, I'm focused on strengthening my skills in
+  <strong>AI/ML, Deep Learning, NLP, Backend Development, and Open Source</strong>.
+</p>
 
 <!-- ===================== TECH STACK ===================== -->
 
