@@ -78,7 +78,11 @@
 <p align="center">
   <b>BUILD • BREAK • DEBUG • LEARN • REPEAT ⚔️</b>
 </p>
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <i>My coding activity, contributions, and development journey.</i>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShiveshParashar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
