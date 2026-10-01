@@ -25,7 +25,7 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <i>Tools I use to turn ideas into systems.</i>
