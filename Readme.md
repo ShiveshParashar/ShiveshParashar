@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ninja_anim_25mb.gif"
+  <img src="./cyberpunk_coder.gif"
        width="100%"
        alt="Ninja error to success animation">
 </div>
