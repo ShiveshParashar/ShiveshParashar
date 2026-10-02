@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./cyberpunk_coder.gif"
-       width="100%"
+       width="60%"
        alt="Ninja error to success animation">
 </div>
 </td>
